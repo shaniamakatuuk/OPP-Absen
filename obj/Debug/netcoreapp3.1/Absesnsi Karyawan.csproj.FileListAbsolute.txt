@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\Absesnsi Karyawan\bin\Debug\netcoreapp3.1\Absesnsi Karyawan.exe
+C:\Users\USER\source\repos\Absesnsi Karyawan\bin\Debug\netcoreapp3.1\Absesnsi Karyawan.deps.json
+C:\Users\USER\source\repos\Absesnsi Karyawan\bin\Debug\netcoreapp3.1\Absesnsi Karyawan.runtimeconfig.json
+C:\Users\USER\source\repos\Absesnsi Karyawan\bin\Debug\netcoreapp3.1\Absesnsi Karyawan.runtimeconfig.dev.json
+C:\Users\USER\source\repos\Absesnsi Karyawan\bin\Debug\netcoreapp3.1\Absesnsi Karyawan.dll
+C:\Users\USER\source\repos\Absesnsi Karyawan\bin\Debug\netcoreapp3.1\Absesnsi Karyawan.pdb
+C:\Users\USER\source\repos\Absesnsi Karyawan\obj\Debug\netcoreapp3.1\Absesnsi Karyawan.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Absesnsi Karyawan\obj\Debug\netcoreapp3.1\Absesnsi Karyawan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Absesnsi Karyawan\obj\Debug\netcoreapp3.1\Absesnsi Karyawan.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Absesnsi Karyawan\obj\Debug\netcoreapp3.1\Absesnsi Karyawan.AssemblyInfo.cs
+C:\Users\USER\source\repos\Absesnsi Karyawan\obj\Debug\netcoreapp3.1\Absesnsi Karyawan.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Absesnsi Karyawan\obj\Debug\netcoreapp3.1\Absesnsi Karyawan.dll
+C:\Users\USER\source\repos\Absesnsi Karyawan\obj\Debug\netcoreapp3.1\Absesnsi Karyawan.pdb
+C:\Users\USER\source\repos\Absesnsi Karyawan\obj\Debug\netcoreapp3.1\Absesnsi Karyawan.genruntimeconfig.cache

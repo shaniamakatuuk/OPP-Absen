@@ -1,0 +1,31 @@
+using System;
+
+namespace Absesnsi_Karyawan
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Absen Karyawan");
+            Console.WriteLine("--------------");
+            Console.WriteLine("Masukan Username");
+            Console.ReadLine();
+            Console.WriteLine("Username");
+            Console.Write("Nama");
+            {
+                Console.WriteLine("001");
+                Console.WriteLine("Calvin");
+                Console.WriteLine("Berhasil Apsen");
+            {
+                    Console.WriteLine("002");
+                    Console.WriteLine("Cio");
+                    Console.WriteLine("Berhasil Apsen");
+
+                    Console.WriteLine("Username tidak ada");
+                }
+            }
+        }
+            
+	}
+}
+
